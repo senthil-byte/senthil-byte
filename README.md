@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @senthil-byte
+- 👋 Hi, I’m Senthil Kumar
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Python
