@@ -1,1 +1,7 @@
-I love project.
+- 👋 Hi, I’m T.R.Senthil Kumar
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Stable Diffusion
+- 💞️ I’m looking to collaborate on Image to text projects
+- 📫 How to reach me senthiltr2004@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Every one has a treasure in them they need to find them
